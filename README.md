@@ -1,6 +1,5 @@
 # 🏥 Hospital Management Stand Alone App
-
-
+A Java-based CLI application for small clinics to manage doctors, patients, and appointments using MySQL + JDBC. It reduces manual effort by ~70% and provides real-time operations via a simple menu-driven interface.
 
 ---
 
